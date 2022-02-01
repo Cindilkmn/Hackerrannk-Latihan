@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class latihan4 {
+public class Day4_JavaStdin_StdoutII {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

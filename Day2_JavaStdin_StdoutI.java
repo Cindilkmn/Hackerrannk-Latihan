@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class latihan2{
+public class Day2_JavaStdin_StdoutI{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();

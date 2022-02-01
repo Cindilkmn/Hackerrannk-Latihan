@@ -3,7 +3,7 @@ import java.io.*;
 
 
 
-class latihan8{
+class Day8_Java_Datatypes{
     public static void main(String []argh)
     {
 
