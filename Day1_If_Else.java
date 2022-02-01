@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Day3_If_Else {
+public class Day1_If_Else {
 
 
 

@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Day10_JavaStatic_InitializerBlock{
+public class Day4_JavaStatic_InitializerBlock{
 
 //Write your code here
 static Scanner sc = new Scanner(System.in);

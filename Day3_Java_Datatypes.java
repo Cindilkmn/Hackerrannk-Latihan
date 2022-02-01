@@ -3,7 +3,7 @@ import java.io.*;
 
 
 
-class Day8_Java_Datatypes{
+class Day3_Java_Datatypes{
     public static void main(String []argh)
     {
 
