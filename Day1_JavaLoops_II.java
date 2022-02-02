@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Day3_JavaLoops_II{
+class Day1_JavaLoops_II{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
