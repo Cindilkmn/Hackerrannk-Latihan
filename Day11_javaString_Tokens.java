@@ -26,5 +26,5 @@ public class Day11_javaString_Tokens {
         }
         scan.close();
     }
-}
+}  
 
